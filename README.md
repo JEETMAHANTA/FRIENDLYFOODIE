@@ -47,6 +47,7 @@ cd admin
 npm install
 npm run dev
 ```
+🏪we're working on vendor panel 
 
 ---
 
