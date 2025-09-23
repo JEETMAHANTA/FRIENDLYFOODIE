@@ -55,6 +55,9 @@ npm run dev
 
 ---
 ![image alt](https://github.com/JEETMAHANTA/FRIENDLYFOODIE/blob/51c27acf22817243f1f20b7154a41829bdbf09db/frontend/IMG_20250923_224605.jpg)
+
+---
+![image alt](https://github.com/JEETMAHANTA/FRIENDLYFOODIE/blob/ebbb816c0131b3e0c63cefeb2165931309e1e391/backend/IMG_20250923_231622.jpg)
 ---
 
 ### 🚀 Deployment
