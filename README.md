@@ -54,6 +54,8 @@ npm run dev
 🏪we're working on vendor panel 
 
 ---
+![image alt](https://github.com/JEETMAHANTA/FRIENDLYFOODIE/blob/51c27acf22817243f1f20b7154a41829bdbf09db/frontend/IMG_20250923_224605.jpg)
+---
 
 ### 🚀 Deployment
 
