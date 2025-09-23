@@ -3,6 +3,11 @@
 Friendly Foodie is a modern, full-stack food order and delivery system designed to provide users with a seamless way to order their favorite meals online. Whether it's breakfast, lunch, dinner, or drinks, everything is available in one place! 🥳
 
 ---
+<img
+src="https://github.com/JEETMAHANTA/FRIENDLYFOODIE/blob/679d59c429d28c83699b86ebd2a7b8dbd45afb3d/frontend/logo.png" alt="demo"
+width="200"/>
+
+---
 
 ### ✨ Features
 - 🔐 **User Authentication**: A secure and smooth login and registration process for all users.  
