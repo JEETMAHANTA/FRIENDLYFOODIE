@@ -59,11 +59,13 @@ npm run dev
 
 <img
 src="https://github.com/JEETMAHANTA/FRIENDLYFOODIE/blob/51c27acf22817243f1f20b7154a41829bdbf09db/frontend/IMG_20250923_224605.jpg" alt="demo"
-width="800"/>
+width="1000"/>
 
 ---
 
-![image alt](https://github.com/JEETMAHANTA/FRIENDLYFOODIE/blob/ebbb816c0131b3e0c63cefeb2165931309e1e391/backend/IMG_20250923_231622.jpg)
+<img
+src="https://github.com/JEETMAHANTA/FRIENDLYFOODIE/blob/ebbb816c0131b3e0c63cefeb2165931309e1e391/backend/IMG_20250923_231622.jpg" alt="demo"
+width="1000"/>
 
 ---
 
