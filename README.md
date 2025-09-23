@@ -22,6 +22,10 @@ Friendly Foodie is a modern, full-stack food order and delivery system designed 
 
 ---
 
+https://github.com/JEETMAHANTA/FRIENDLYFOODIE/blob/cc8cc8b6d3b15a221f58394cfb969365e31c837b/Framework.png
+
+---
+
 ### ⚙️ Installation
 
 To get the project up and running on your local machine, follow these simple steps.  
