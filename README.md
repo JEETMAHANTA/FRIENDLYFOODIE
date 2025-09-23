@@ -24,7 +24,7 @@ Friendly Foodie is a modern, full-stack food order and delivery system designed 
 
 <img
 src="https://github.com/JEETMAHANTA/FRIENDLYFOODIE/blob/cc8cc8b6d3b15a221f58394cfb969365e31c837b/Framework.png" alt="demo"
-width="2000"/>
+width="1200"/>
 
 ---
 
@@ -56,10 +56,13 @@ npm run dev
 🏪we're working on vendor panel 
 
 ---
-![image alt](https://github.com/JEETMAHANTA/FRIENDLYFOODIE/blob/51c27acf22817243f1f20b7154a41829bdbf09db/frontend/IMG_20250923_224605.jpg)
 
+<img
+src="https://github.com/JEETMAHANTA/FRIENDLYFOODIE/blob/51c27acf22817243f1f20b7154a41829bdbf09db/frontend/IMG_20250923_224605.jpg" alt="demo"
+width="800"/>
 
 ---
+
 ![image alt](https://github.com/JEETMAHANTA/FRIENDLYFOODIE/blob/ebbb816c0131b3e0c63cefeb2165931309e1e391/backend/IMG_20250923_231622.jpg)
 
 ---
